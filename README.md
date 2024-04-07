@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+    <a>
+        <img alt="Profile Banner" src="https://raw.githubusercontent.com/etherlys/etherlys/master/assets/github_header.jpg" />
+    </a>
+</h1>
 
-<!--
-**etherlys/etherlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+    <summary align="center">
+        I'm a junior cyber security engineer who loves to learn about new things ✨
+    </summary>
+    <br>
+    <a align="center">
+        <img alt="Profile Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherlys&layout=compact&theme=transparent" />
+    </a>
+</details>
