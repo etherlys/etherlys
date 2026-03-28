@@ -6,10 +6,10 @@
 
 <details align="center">
     <summary align="center">
-        I'm a junior cyber security engineer who loves to learn about new things ✨
+        I'm a CS engineer who loves to learn about new things ✨
     </summary>
     <br>
     <a align="center">
-        <img alt="Profile Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherlys&layout=compact&theme=transparent" />
+        <img src="https://skillicons.dev/icons?i=linux,debian,raspberrypi,html,py,bash,md,css,vscodium,obsidian,netlify,docker&perline=4" alt="skillicons"/>
     </a>
 </details>
